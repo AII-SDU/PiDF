@@ -1,5 +1,4 @@
 
-(正文)
 python exp1.py \
   --csv ./mp_data/exp42_perovskite_like_subset.csv \
   --outdir runs/section1_logreg \
