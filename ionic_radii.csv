@@ -1,0 +1,26 @@
+element,oxidation_state,coordination,ionic_radius,site_group,note
+O,-2,6,1.40,X,oxide anion
+Na,1,12,1.39,A,stable A-site monovalent
+K,1,12,1.64,A,stable A-site monovalent
+Rb,1,12,1.72,A,stable A-site monovalent
+Cs,1,12,1.88,A,stable A-site monovalent
+Ca,2,12,1.34,A,stable A-site divalent
+Sr,2,12,1.44,A,stable A-site divalent
+Ba,2,12,1.61,A,stable A-site divalent
+La,3,12,1.36,A,stable A-site trivalent
+Ce,3,12,1.34,A,use Ce3+ only
+Pr,3,12,1.32,A,stable A-site trivalent
+Nd,3,12,1.30,A,stable A-site trivalent
+V,5,6,0.54,B,use V5+ only
+Nb,5,6,0.64,B,stable B-site pentavalent
+Ta,5,6,0.64,B,stable B-site pentavalent
+Ti,4,6,0.605,B,stable B-site tetravalent
+Zr,4,6,0.72,B,stable B-site tetravalent
+Hf,4,6,0.71,B,stable B-site tetravalent
+Sn,4,6,0.69,B,stable B-site tetravalent
+Mn,4,6,0.53,B,use Mn4+ only
+Al,3,6,0.535,B,stable B-site trivalent
+Ga,3,6,0.62,B,stable B-site trivalent
+Sc,3,6,0.745,B,stable B-site trivalent
+Cr,3,6,0.615,B,use Cr3+ only
+Fe,3,6,0.645,B,use high-spin Fe3+
